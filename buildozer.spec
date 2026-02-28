@@ -1,7 +1,7 @@
 [app]
 title = TradeZen
 package.name = tradezen
-package.domain = org.test
+package.domain = com.lmtrades
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
